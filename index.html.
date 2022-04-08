@@ -1,0 +1,9 @@
+<html>
+<head>
+<style>
+body {
+    background: blue;
+    font-family: Times New Roman;
+   }
+   #content {
+       background: lightyellow;
